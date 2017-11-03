@@ -1,5 +1,5 @@
-# QC_affymetrix
-R script for affymetrix quality check
+# Outliers Detection Affymetrix platform
+R script that identifies outliers in affymetrix samples
 
 This script evaluate RLE,NUSE and RNA degradation for a given list of cel Files.
 The RLE and NUSE median values and the slopes of the RNA degradation curves are evaluated for each samples.

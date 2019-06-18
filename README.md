@@ -16,6 +16,6 @@ maxFiles = 100 #maximum number of files to be preprocessed at the same time. It 
 isParallel = TRUE
 nCores = 40
 
-source("src/evaluate_goodness.R")
+source("outliers.R")
 
 ```
